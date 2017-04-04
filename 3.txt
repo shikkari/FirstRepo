@@ -1,0 +1,2 @@
+echo "testing my jenkins"
+echo "from 3.txt"
